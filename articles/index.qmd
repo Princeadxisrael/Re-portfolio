@@ -6,6 +6,21 @@ Selected Articles/Blog contents
  <br/>
  
  ---
+ **At The Edge Of Determinism: Parallel Transaction Lifecycle in Solana Sealevel and Sui Object Runtime**
+ Apr 13, 2025
+ Prince Israel
+ ---
+
+#### Overview 
+  Preprint analysis on the underlying mechanism behind these high transaction performance through the lens of a transaction lifecycle to provide a comprehensive and comparative analysis on different execution models of Solana and Sui
+
+##### Full Preprint 
+[Article](https://aseneca.substack.com/p/at-the-edge-of-determinism-parallel)
+
+<br/>
+<br/>
+
+ ---
  **A Developer’s Guide into Account Abstraction Models**
  Nov 30, 2024
  Prince Israel

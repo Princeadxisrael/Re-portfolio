@@ -1,0 +1,68 @@
+
+# Research
+
+ Selected Publications and Preprints
+
+ <br/>
+ <br/>
+
+ ---
+ **Advancement in Post-Quantum SVM: Insights on Cryptographic Resistance to Quantum Computing Attacks on Solana**
+ November 2024
+ Prince Israel
+ ---
+
+#### Abstract 
+ This research investigates and evaluates the implications of Quantum computing on Solana cryptographic primitives and Post-quantum applications to enable its cryptography evolve towards being resistant to quantum attacks.
+
+##### Full Paper 
+ [pdf](https://drive.google.com/file/d/1q84wt67IdoqM7UuyLGiv8qL4Rg-zzpdY/view?usp=drive_link) [blog](https://medium.com/@hrknsinst/advancement-in-post-quantum-svm-review-on-cryptographic-resistance-to-quantum-computing-attacks-on-6b50c0d00408)
+
+ <br/>
+ <br/>
+
+ ---
+ **Voting Modifications and Validator Voting Behavior Study V 1.0**
+ April 11, 2025
+ Berg Abman, Bryan Cole, Nate Hughes, Jeff Paul,Dhruv Solanki, Aishat Suleiman, **Prince Israel**, Mansoor Muhammed
+ ---
+
+
+#### Abstract 
+ This research study aims to understand whether the presence of various Vote Mods (custom implementations of consensus.rs) negatively impact healthy chain operations if more than 34% stake fails to fulfill the consensus-dependent voting, potentially causing the chain to halt. It focuses on voting behaviors, the stake weight of composite clusters of common behaviors, and the potential impact of modifications on chain health.
+
+##### Full Paper 
+[Paper](https://medium.com/@hrknsinst/voting-modifications-and-validator-voting-behavior-study-v-1-0-14098cd01d0c)
+
+<br/>
+<br/>
+
+ ---
+ **At The Edge of Determinism: Transaction Lifecycle in Solana Sealevel and Sui Object Runtime**
+ April 2025
+ Prince Israel
+ ---
+
+#### Abstract 
+ This research article examines the underlying mechanisms that drive high transaction performance by analyzing the transaction lifecycle of both chains, and provide a comprehensive, side-by-side comparison of how their differing execution models enable them to achieve high transaction throughput at very low finality times.
+
+##### Full Paper 
+[Article](https://www.helius.dev/blog/solana-vs-sui-transaction-lifecycle)
+
+<br/>
+<br/>
+
+ ---
+ **Benchmark Research on Solana Core**
+ Febuary 2025
+ Prince Israel
+ ---
+
+#### Abstract 
+ An investigative research, test findings, analysis, and results related to Solana Core, Solana validator performance and Agave-specific optimizations. It documents benchmarking experiments, statistical insights, and code changes made during testing.
+
+##### Report 
+[Code](https://github.com/Princeadxisrael/Agave-Benchmarking-Solana-Core)
+
+
+

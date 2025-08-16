@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Prince Israel"
+  description: "Research on decentralized-systems scale distributed computing, AI research infra, data-intensive and compute-intensive systems, alongside articles on insights and updates."
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Articles"
+        href: articles/index.qmd
+      # - text: "Notes"
+      #   href: notes/index.qmd
+      
+      # - text: "Talks"
+      #   href: talks/index.qmd
+      - text: "Resume"
+        href: cv.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - icon: github
+        href: https://github.com/princeadxisrael
+      - icon: linkedin
+        href:  https://www.linkedin.com/in/prince-israel-4b8546103
+      - icon: twitter
+        href: https://twitter.com/princeadxisrael
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

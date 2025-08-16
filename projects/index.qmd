@@ -1,0 +1,41 @@
+# Projects
+
+Engineering projects
+ 
+ <br/>
+ <br/>
+ 
+ ---
+ **Cassegrain**
+ Jul, 2025
+ ---
+
+#### Overview 
+ A hybrid web2/web3 Supply Chain Management Solution, built on Solana with Ephemeral Rollups (Magic Block ER). It aims to provide a secure, transparent, and efficient way for Manufacturers, Retailers, and Consumers to interact with supply chain data, verify product authenticity, track goods in real-time, and facilitate direct P2P transactions.
+ 
+[Repository](https://github.com/Princeadxisrael/Cassegrain)
+[Repository](https://github.com/Princeadxisrael/Cassegrain-FE)
+
+ <br/>
+ ---
+ **An AccountsDB Geyser Plugin Optimized for MongoDB**
+ Nov, 2024
+ ---
+
+#### Overview 
+A Solana Geyser plugin with MongoDB to integrate Solana's real-time data streaming capabilities with MongoDB's flexible document-oriented database 
+
+[Repository](https://github.com/Princeadxisrael/AccountDB-Plugin-Solana_MongoDB)
+
+ <br/>
+ ---
+ **Solana Stake Program (Pinocchio)**
+ May, 2025
+ ---
+
+#### Overview 
+The Solana Staking Program engineered in Pinocchio 
+
+[Repository](https://github.com/Princeadxisrael/pinocchio-stake)
+
+

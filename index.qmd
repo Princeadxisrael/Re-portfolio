@@ -1,0 +1,6 @@
+# Hi, I'm Prince Israel
+
+I research and build decentralized distributed systems/protocols, virtual machines, data-intensive and compute-intensive systems. I think of myself as a bridge between decentalization, parellel compute, systems engineering and research writing.
+
+I am a member of the [3uild Ethos](https://x.com/comebuidlwithus?lang=en) team where I have been focused on driving technological innovations within the developer and research community. My primary projects have been related to protocol research, distributed computing systems, cryptography and quantum computing systems. I currently serve the team as the research operations and programs lead. 
+I also work with [Solana foundation](https://solana.org) to research and improve painpoints on the devEx landscape and I am one of the consistent and top contributors on [solanastackexchange](https://solana.stackexchange.com/users/32724/aseneca).

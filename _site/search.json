@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Prince Israel",
+    "section": "",
+    "text": "Hi, I’m Prince Israel\nI research and build decentralized distributed systems/protocols, virtual machines, data-intensive and compute-intensive systems. I think of myself as a bridge between decentalization, parellel compute, systems engineering and research writing.\nI am a member of the 3uild Ethos team where I have been focused on driving technological innovations within the developer and research community. My primary projects have been related to protocol research, distributed computing systems, cryptography and quantum computing systems. I currently serve the team as the research operations and programs lead. I also work with Solana foundation to research and improve painpoints on the devEx landscape and I am one of the consistent and top contributors on solanastackexchange."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\nEngineering projects\n \n\n\n\nCassegrain\n\n\nJul, 2025\n\n\n\n\nOverview\nA hybrid web2/web3 Supply Chain Management Solution, built on Solana with Ephemeral Rollups (Magic Block ER). It aims to provide a secure, transparent, and efficient way for Manufacturers, Retailers, and Consumers to interact with supply chain data, verify product authenticity, track goods in real-time, and facilitate direct P2P transactions.\nRepository Repository\n\n\n\n\n\n\n\n\nAn AccountsDB Geyser Plugin Optimized for MongoDB\n\n\nNov, 2024\n\n\n\n\n\nOverview\nA Solana Geyser plugin with MongoDB to integrate Solana’s real-time data streaming capabilities with MongoDB’s flexible document-oriented database\nRepository\n\n\n\n\n\n\n\n\nSolana Stake Program (Pinocchio)\n\n\nMay, 2025\n\n\n\n\n\nOverview\nThe Solana Staking Program engineered in Pinocchio\nRepository"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Prince Israel",
+    "section": "",
+    "text": "Title: “Advancement in Post-Quantum SVM: Insights on Cryptographic Resistance to Quantum Computing Attacks on Solana”\n\n\nDate: November 2024\n\n\nCategories: [Protocol research, Crytography, Quantum computing, Solana]"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research\nSelected Publications and Preprints\n \n\n\n\nAdvancement in Post-Quantum SVM: Insights on Cryptographic Resistance to Quantum Computing Attacks on Solana\n\n\nNovember 2024\n\n\nPrince Israel\n\n\n\n\nAbstract\nThis research investigates and evaluates the implications of Quantum computing on Solana cryptographic primitives and Post-quantum applications to enable its cryptography evolve towards being resistant to quantum attacks.\n\nFull Paper\npdf blog\n \n\n\n\nVoting Modifications and Validator Voting Behavior Study V 1.0\n\n\nApril 11, 2025\n\n\nBerg Abman, Bryan Cole, Nate Hughes, Jeff Paul,Dhruv Solanki, Aishat Suleiman, Prince Israel, Mansoor Muhammed\n\n\n\n\n\n\nAbstract\nThis research study aims to understand whether the presence of various Vote Mods (custom implementations of consensus.rs) negatively impact healthy chain operations if more than 34% stake fails to fulfill the consensus-dependent voting, potentially causing the chain to halt. It focuses on voting behaviors, the stake weight of composite clusters of common behaviors, and the potential impact of modifications on chain health.\n\nFull Paper\nPaper\n \n\n\n\nAt The Edge of Determinism: Transaction Lifecycle in Solana Sealevel and Sui Object Runtime\n\n\nApril 2025\n\n\nPrince Israel\n\n\n\n\n\n\nAbstract\nThis research article examines the underlying mechanisms that drive high transaction performance by analyzing the transaction lifecycle of both chains, and provide a comprehensive, side-by-side comparison of how their differing execution models enable them to achieve high transaction throughput at very low finality times.\n\nFull Paper\nArticle\n \n\n\n\nBenchmark Research on Solana Core\n\n\nFebuary 2025\n\n\nPrince Israel\n\n\n\n\n\n\nAbstract\nAn investigative research, test findings, analysis, and results related to Solana Core, Solana validator performance and Agave-specific optimizations. It documents benchmarking experiments, statistical insights, and code changes made during testing.\n\nReport\nCode"
+  },
+  {
+    "objectID": "research/index.html#abstract",
+    "href": "research/index.html#abstract",
+    "title": "Research",
+    "section": "",
+    "text": "This research investigates and evaluates the implications of Quantum computing on Solana cryptographic primitives and Post-quantum applications to enable its cryptography evolve towards being resistant to quantum attacks."
+  },
+  {
+    "objectID": "research/index.html#full-paper",
+    "href": "research/index.html#full-paper",
+    "title": "Research",
+    "section": "",
+    "text": "pdf blog"
+  },
+  {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles\nSelected Articles/Blog contents\n \n\n\n\nA Developer’s Guide into Account Abstraction Models\n\n\nNov 30, 2024\n\n\nPrince Israel\n\n\n\n\nOverview\nThis article aims to introduce the general concept AA by exploring its implementation in two prominent blockchains, namely Ethereum and Solana. By discussing their differences and the unique advantages each chain derives from the implementation of AA models at the core of their account structures\n\nFull Article\nArticle\n \n\n\n\nImproving IDLs Discoverability: Accelerating Solana Development, Integration and Composability\n\n\nNov 11, 2024\n\n\nPrince Israel\n\n\n\n\n\n\nOverview\nThis article aims to explore what Interface Definition Language (IDL) is all about, and how they are a vital part of improving the development experience on Solana. It provides a comprehensive understanding of the role IDLs play across the Solana development landscape, and why further understanding into upgrading its discoverability will bolster and accelerate development experience on Solana.\n\nFull Article\nArticle\n \n\n\n\nCross-Program Invocations and PDAs- the combination of two powerful mechanism on Anchor\n\n\nSept 11, 2024\n\n\nPrince Israel\n\n\n\n\n\n\nOverview\nThis article aims to explore the concept of Cross-Program Invocations which enable programs on Solana to interact with one another\n\nFull Article\nArticle\n \n\n\n\nClone and Iterative Adapter Methods in Rust: The thin line between Duplication, Efficiency and Transformation\n\n\nSept 11, 2024\n\n\nPrince Israel\n\n\n\n\n\n\nOverview\nThis article aims to explore the fundamental differences between clone and iterative methods in rust and how they can be very useful in manipulating data\n\nFull Article\nArticle\n \n\n\n\nIntroduction to Solana: A fledging’s guide on Web3 development on Solana\n\n\nSept 17, 2024\n\n\nPrince Israel\n\n\n\n\n\n\nOverview\nAn introductory guide into core programming concepts to serve as an entry point for new Solana developers or blockchain enthusiasts that wish to learn further about Solana.\n\nFull Article\nArticle"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

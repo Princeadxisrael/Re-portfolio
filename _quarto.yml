@@ -18,8 +18,8 @@ website:
       
       # - text: "Talks"
       #   href: talks/index.qmd
-      - text: "Resume"
-        href: cv.qmd
+      # - text: "Resume"
+      #   href: cv.qmd
       - text: "Projects"
         href: projects/index.qmd
       - icon: github

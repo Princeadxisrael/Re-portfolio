@@ -4,7 +4,47 @@ Selected Articles/Blog contents
  
  <br/>
  <br/>
+
  
+ ---
+ **Airdropping Tokens to 1 Million Addresses on Solana for 1.07 SOL**
+ March 4, 2026
+ Prince Israel
+ ---
+
+#### Overview 
+This demo shows that on-chain mass distribution is absolutely possible using LightProtocol
+compression model.
+However, the real constraints start to surface when you design around a million recipients instead of 1,000.
+
+##### Full Article 
+[Article](https://aseneca.substack.com/p/airdropping-tokens-to-1-million-addresses)
+
+##### Repository
+[Github](https://github.com/Princeadxisrael/Zk_compression_Demo)
+
+<br/>
+<br/>
+
+ ---
+ **Designing a Rust Backend for Solana Confidential Transfers**
+ February 7, 2026
+ Prince Israel
+ ---
+
+#### Overview 
+Built a rust backend for a privacy application on Solana using Axum, solana-zk-sdk, and orchestrating TS around it. 
+
+
+##### Full Article 
+[Article](https://aseneca.substack.com/p/designing-a-rust-backend-for-solana)
+
+##### Repository
+[github](https://github.com/Princeadxisrael/PrivyPass_backend)
+
+<br/>
+<br/>
+
  ---
  **At The Edge Of Determinism: Parallel Transaction Lifecycle in Solana Sealevel and Sui Object Runtime**
  Apr 13, 2025

@@ -6,6 +6,22 @@
  <br/>
  <br/>
 
+
+ ---
+ **Advanced Profiling Methodologies in Distributed Architectures: A Comprehensive Analysis of Observability, eBPF Mechanisms, and Optimization Strategies**
+ January 2026
+ Prince Israel
+ ---
+
+#### Abstract 
+ This research evaluates the paradhim shift to continous profilling as the fourth pillar of obsdervability. It provides an exhaustive analysis of the architectural challenges inherent in profiling distributed systems, the technological enablers such as eBPF (Extended Berkeley Packet Filter) that have revolutionized low-overhead data collection, and the advanced storage and query mechanisms required to handle the massive cardinality of profiling data in production.
+
+##### Full Print 
+ [pdf](https://aseneca.substack.com/p/advanced-profiling-methodologies)
+
+ <br/>
+ <br/>
+
  ---
  **Advancement in Post-Quantum SVM: Insights on Cryptographic Resistance to Quantum Computing Attacks on Solana**
  November 2024

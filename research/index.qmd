@@ -14,7 +14,7 @@
  ---
 
 #### Abstract 
- This research evaluates the paradigm shift to continous profilling as the fourth pillar of obsdervability. It provides an exhaustive analysis of the architectural challenges inherent in profiling distributed systems, the technological enablers such as eBPF (Extended Berkeley Packet Filter) that have revolutionized low-overhead data collection, and the advanced storage and query mechanisms required to handle the massive cardinality of profiling data in production.
+ This research evaluates the paradigm shift to continous profilling as the fourth pillar of observability. It provides an exhaustive analysis of the architectural challenges inherent in profiling distributed systems, the technological enablers such as eBPF (Extended Berkeley Packet Filter) that have revolutionized low-overhead data collection, and the advanced storage and query mechanisms required to handle the massive cardinality of profiling data in production.
 
 ##### Full Print 
  [pdf](https://aseneca.substack.com/p/advanced-profiling-methodologies)
